@@ -10,7 +10,7 @@ Commits
 git status
 git diff --cached
 git log
-git reflog (прямо хеши коммитов видно)
+git reflog (РїСЂСЏРјРѕ С…РµС€Рё РєРѕРјРјРёС‚РѕРІ РІРёРґРЅРѕ)
 
 
 ACTION COMMANDS

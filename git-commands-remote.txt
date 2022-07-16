@@ -1,1 +1,0 @@
-git push origin HEAD:branch-for-feature1
