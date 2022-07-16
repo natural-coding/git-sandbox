@@ -1,0 +1,20 @@
+STATUS-LIKE COMMANDS
+====================
+
+Branches
+--------
+git branch
+
+Commits
+-------
+git status
+git diff --cached
+git log
+git reflog (прямо хеши коммитов видно)
+
+
+ACTION COMMANDS
+===============
+git checkout -b branch-for-feature1
+git add feature1-file.txt
+git commit -m "Add file for branch-for-feature1 branch"
